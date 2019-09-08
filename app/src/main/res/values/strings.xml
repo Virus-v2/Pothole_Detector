@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pothole Finder</string>
+    <string name="pick_color" />
+    <string name="Choose"/>
+    <string name="ok"/>
+    <string name="close"/>
+    <string name="todo">TODO</string>
+    <string name="info_title">About the app</string>
+    <string name="info">This application is for educational purposes. Please place the smartphone on a hard and stable surface in a car for better results</string>
+<string name="internet_check_title">No Internet Connection</string>
+    <string name="internet_check_">You need to have mobile data or wifi to use this app. Press ok to exit</string>
+    <string name="upload_title">Upload arduino data</string>
+    <string name="upload_info">If you want to upload the data from arduino just plug the arduino to smartphone via OnTheGo cable.</string>
+
+
+</resources>
